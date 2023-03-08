@@ -8,3 +8,4 @@ class BookApiViewset(ModelViewSet):
     queryset = Book.objects.all()
 
 # Se crea una api rapidadmente con rest_framework
+# Aqui fue
